@@ -1,3 +1,3 @@
 # best-repo-ever
 this is my first change
-In normal practice, we don't recommend committing directly to main—we're just doing so here to quickly create a merge conflict
+Wondering what all of those other options are for the hunks? Use the ? to see a list of options above the hunk.
